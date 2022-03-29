@@ -1,0 +1,25 @@
+[  {
+    "model": "core.country",
+    "fields": {
+      "id": "e6b0fd45-1c6c-499b-8384-51abd1baa94c",
+      "code": "ES",
+      "name_en": "Spain",
+      "name_es": "Espa\u00f1a",
+      "name_pt": "Espanha",
+      "created_at": "2021-08-03 13:43:03.462051-04",
+      "updated_at": "2021-08-03 13:43:03.462051-04"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "id": "e0be8bea-e6cc-4a23-b480-b0677b522584",
+      "code": "AD",
+      "name_en": "Andorra",
+      "name_es": "Andorra",
+      "name_pt": "Andorra",
+      "created_at": "2021-08-03 13:43:03.462051-04",
+      "updated_at": "2021-08-03 13:43:03.462051-04"
+    }
+  }
+]
